@@ -15,7 +15,9 @@ Learn German (Deutsch) with Hololive!
 
 ### Dictionary
 
+- [Verbformen](https://www.verbformen.de) - German forms and other useful info
 - [TU Chemnitz](https://dict.tu-chemnitz.de) - German dictionary
+- [Leo](https://www.leo.org/englisch-deutsch/) - English <~> German dictionary
 
 ### Guides
 
