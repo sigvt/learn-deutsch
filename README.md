@@ -11,6 +11,11 @@ Learn German (Deutsch) with Hololive!
 - [Iofi's German Class #1](https://holodex.net/watch/FfFhMB_RK0w)
 - [Iofi's German Class #2](https://holodex.net/watch/HUYBJRzWTkY)
 
+## Listening Practice
+
+- [German Fairytales - Cinderella](https://holodex.net/watch/hAKdblGa_Bk)
+- [German Fairytales - Frau Holle](https://holodex.net/watch/KViQgNVMXFY)
+
 ## Usual Resources
 
 ### Dictionary
